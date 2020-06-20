@@ -1,2 +1,2 @@
-# otherPHP
-Some PHP codes when boredom stickes. lol
+## otherPHP
+Some PHP codes when boredom stickes. xD
